@@ -1,0 +1,16 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+      "name": "Esri World Geocoder",
+      "singleLineFieldName": "SingleLine",
+      "placeholder": "Esri World Geocoder",
+      "countryCode": "",
+      "maxResults": 6,
+      "searchInCurrentMapExtent": true,
+      "type": "locator"
+    }
+  ]
+}
